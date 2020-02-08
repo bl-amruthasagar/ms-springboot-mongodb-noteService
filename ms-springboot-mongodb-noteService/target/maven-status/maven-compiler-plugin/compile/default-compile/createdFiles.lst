@@ -1,0 +1,6 @@
+com\ams\noteapi\controller\NoteController.class
+com\ams\noteapi\dao\NoteRepo.class
+com\ams\noteapi\service\SequenceGeneratorNoteService.class
+com\ams\noteapi\model\NoteModel.class
+com\ams\noteapi\MsSpringbootMongodbNoteServiceApplication.class
+com\ams\noteapi\model\NoteDatabaseSequence.class
